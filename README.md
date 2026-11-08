@@ -1,6 +1,6 @@
 <!-- VAMPIRE BANNER -->
 <p align="center">
-  <img src="./assets/vampire-banner.jpeg" width="100%" alt="VAMPIRE Banner"/>
+  <img src="./vampire-banner.jpeg" width="100%" alt="VAMPIRE Banner"/>
 </p>
 
 <h1 align="center">Godson Menezes</h1>
