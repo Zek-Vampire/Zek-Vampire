@@ -110,18 +110,6 @@ A platform focused on helping students discover hackathons, build teams, and sha
   />
 </p>
 
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="./profile/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
-
----
-
 ## Developer Philosophy
 
 <h3 align="center">BUILD. BREAK. LEARN. REPEAT.</h3>
