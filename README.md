@@ -98,14 +98,26 @@ A platform focused on helping students discover hackathons, build teams, and sha
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zek-Vampire&show_icons=true&theme=dark&hide_border=true&title_color=AAFF00&icon_color=AAFF00" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zek-Vampire&layout=compact&theme=dark&hide_border=true&title_color=AAFF00" height="165"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Zek-Vampire&show_icons=true&theme=dark&hide_border=true&title_color=AAFF00&icon_color=AAFF00"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zek-Vampire&layout=compact&theme=dark&hide_border=true&title_color=AAFF00"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zek-Vampire&bg_color=000000&color=AAFF00&line=AAFF00&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img
+    src="./profile/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
