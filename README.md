@@ -99,7 +99,7 @@ A platform focused on helping students discover hackathons, build teams, and sha
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Zek-Vampire&show_icons=true&theme=dark&hide_border=true&title_color=AAFF00&icon_color=AAFF00"
+    src="https://github-stats-extended.vercel.app/api?username=Zek-Vampire&include_all_commits=true&show_icons=true&theme=dark&hide_border=true&title_color=AAFF00&icon_color=AAFF00"
     height="165"
     alt="GitHub Statistics"
   />
